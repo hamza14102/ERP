@@ -1,0 +1,3 @@
+Product name : chair
+labor-a : 5
+screws : 20

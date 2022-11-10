@@ -1,0 +1,1 @@
+buildChair;labor-a:2,mango wood:5,brass:2,aluminium:5,nails:10;chair:1

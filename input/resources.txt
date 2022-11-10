@@ -1,0 +1,7 @@
+labor-a;price,10,quantity,20,type,labor,days:string,MWF,shift timings:string,9AM-5PM
+mango wood;price,0.50,quantity,1000,type,wood,region:string,Austrailia,weight:int,5kg/sqm
+aluminium;price,15,quantity,200,type,metal,shape:string,cylinder,weight:int,12
+brass;price,10,quantity,100,type,metal,shape:string,sheet,weight:int,5
+labor-b;price,14,quantity,15,type,labor,days:string,TTh,shift timings:string,9AM-5PM
+nails;price,1,quantity,1000,type,tool,material:string,stainless steel,shape:string,5PQ
+chair;price,200,quantity,5,type,product,company:string,target,shipping date:string, 15May
